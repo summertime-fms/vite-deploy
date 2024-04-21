@@ -1,0 +1,13 @@
+.button {
+  background: none;
+  font: inherit;
+  display: inline-grid;
+  place-items: center;
+  color: #111111;
+  font-size: 16px;
+  min-width: 250px;
+  border: 1px solid #111111;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
