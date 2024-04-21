@@ -6,11 +6,7 @@ import {resolve} from 'path';
 
 
 export default defineConfig({
-    server: {
-        origin: {
-            base: '/vite-deploy/',
-        }
-    },
+    base: '/vite-deploy/',
     envPrefix: 'ENV',
     build: {
         sourcemap: true,

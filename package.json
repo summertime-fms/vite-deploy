@@ -1,12 +1,12 @@
 {
-  "name": "vite-test",
+  "name": "vite-deploy",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "../vite-test/node_modules/.bin/vite -- open --port 3000",
-    "build": "../vite-test/node_modules/.bin/vite build",
-    "preview": "../vite-test/node_modules/.bin/vite preview"
+    "dev": "vite -- open --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",

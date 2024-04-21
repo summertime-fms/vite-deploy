@@ -1,0 +1,1 @@
+{"version":3,"file":"about-Cot_sPGP.js","sources":["../../pages/about/index.js"],"sourcesContent":["import './style.scss';\nconsole.log('Это страница О нас');\n"],"names":[],"mappings":"6CACA,QAAQ,IAAI,oBAAoB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index-GLbzSMlc.js","sources":["../../index.js"],"sourcesContent":["import './assets/styles/main.scss';\nconsole.log(import.meta.env);\n"],"names":["define_import_meta_env_default"],"mappings":"6CAAA,IAACA,EAAA,CAAA,SAAY,gBAAiB,KAAQ,aAAc,IAAO,GAAO,KAAQ,GAAM,IAAO,EAAK"}

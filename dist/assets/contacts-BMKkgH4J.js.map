@@ -1,0 +1,1 @@
+{"version":3,"file":"contacts-BMKkgH4J.js","sources":["../../pages/contacts/index.js"],"sourcesContent":["import './style.scss';\nconsole.log('Это страница Контакты');\n"],"names":[],"mappings":"6CACA,QAAQ,IAAI,uBAAuB"}
